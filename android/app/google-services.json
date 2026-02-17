@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708385456910",
+    "project_id": "backend-adoptapp",
+    "storage_bucket": "backend-adoptapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708385456910:android:5c082c3508768521208d5f",
+        "android_client_info": {
+          "package_name": "com.example.seminario1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKBeN-OzjbjSABhd7W9PnKEZmq1VVI9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
